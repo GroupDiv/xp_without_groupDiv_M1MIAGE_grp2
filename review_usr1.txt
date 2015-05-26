@@ -2,3 +2,4 @@
 164202|Nouvelle Pratique Informatique|usr1: cuilliere !!!!!!
 164709|Developpement logiciel|usr1: enlever le cours d'UML
 164806|Technique de communication|usr1: supprimer la matière
+164932|Technique de communication|usr1: ne pas faire le travail du prof
