@@ -3,7 +3,7 @@ XML :D
 
 
 Competences acquises:
-SPARQL
+SPARQL, OWL
 créer une onthologie
 
 Programme:
