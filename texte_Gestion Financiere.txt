@@ -6,6 +6,7 @@ prise de note rapide
 
 Competences acquises:
 établir un bilan fonctionnel
+connaître les SIG par coeur (pratique dans la vie de tous les jours)
 
 
 Programme:
@@ -15,3 +16,4 @@ Programme:
 Ameliorations a apporter:
 
 Autoriser une fiche de formules pour les devoirs
+séparer les TD et les CM
