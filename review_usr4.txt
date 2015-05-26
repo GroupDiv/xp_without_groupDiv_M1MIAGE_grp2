@@ -2,3 +2,4 @@
 163906|Gestion Financiere|usr4: être bon en dictée en pré-requis
 164017|Developpement Web et applications riches|usr4: reset en compétence !? Rest serait plus juste. Google cloud enpoint à ajouter
 164149|Developpement logiciel|usr4: Amélioration à apporter : Séparer les deux notions et créer 2 UE distinctes !!
+164200|Developpement logiciel|usr4: Faire un seul projet commun
