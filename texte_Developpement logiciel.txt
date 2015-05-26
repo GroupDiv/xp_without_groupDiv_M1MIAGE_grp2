@@ -1,6 +1,5 @@
 Pre-requis:
 Connaissance des langages à objet et notions de génie logiciel.
-UML
 
 
 Competences acquises:
