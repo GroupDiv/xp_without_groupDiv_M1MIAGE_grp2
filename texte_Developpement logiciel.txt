@@ -12,7 +12,6 @@ Bonnes pratiques de développement
 Programme:
 
 
-
 Ameliorations a apporter:
 Plus de cas concrets d'utilisation de la modélisation Z.
 Isoler leux deux parties du cours en deux UE distinctes.
