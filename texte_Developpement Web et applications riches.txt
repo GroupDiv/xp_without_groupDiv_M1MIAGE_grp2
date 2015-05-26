@@ -7,7 +7,7 @@ Rest, servlet, google app engine,datastore, angular
 
 
 Programme:
-
+note : 1 contrôle + projet
 
 
 Ameliorations a apporter:

@@ -5,3 +5,5 @@
 164932|Technique de communication|usr1: ne pas faire le travail du prof
 165011|Nouvelle Pratique Informatique|usr1: Ce qui est cool ce qu'il n'y a pas de projet
 165038|Nouvelle Pratique Informatique|usr1: Ce qui n'est pas cool, c'est qu'on fait des TP qui ne servent (c'est le prof lui même qui l'a dit)
+165055|Nouvelle Pratique Informatique|usr1: Mais ce qui est cool c'est que ça nous sert de révisions (un peu)
+165123|Developpement Web et applications riches|usr1: c'est moderne
