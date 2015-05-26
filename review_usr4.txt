@@ -1,2 +1,3 @@
 163757|Gestion Financiere|usr4: séparer les TD et les CM dans améliorations à apporter
 163906|Gestion Financiere|usr4: être bon en dictée en pré-requis
+164017|Developpement Web et applications riches|usr4: reset en compétence !? Rest serait plus juste. Google cloud enpoint à ajouter
