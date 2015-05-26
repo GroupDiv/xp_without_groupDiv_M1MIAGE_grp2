@@ -1,0 +1,14 @@
+Pre-requis:
+XML :D
+
+
+Competences acquises:
+SPARQL
+créer une onthologie
+
+Programme:
+
+
+
+Ameliorations a apporter:
+Avoir un intervenant qui ne se désiste pas

@@ -1,0 +1,16 @@
+Pre-requis:
+notion en developpement web
+
+
+Competences acquises:
+Reset, servlet, google app engine,datastore, angular
+
+
+Programme:
+
+
+
+Ameliorations a apporter:
+
+
+plus heures de tp
