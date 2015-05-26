@@ -4,3 +4,4 @@
 164149|Developpement logiciel|usr4: Amélioration à apporter : Séparer les deux notions et créer 2 UE distinctes !!
 164200|Developpement logiciel|usr4: Faire un seul projet commun
 164515|Developpement Web et applications riches|usr4: C'est pour relancer le module au départ et avoir plus de temps pour le projet ?
+164637|Technique de communication|usr4: pourtant y'en aurait des choses à dire :D
