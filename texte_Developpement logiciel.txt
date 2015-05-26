@@ -1,0 +1,16 @@
+Pre-requis:
+Connaissance des langages à objet et notions de génie logiciel.
+
+
+Competences acquises:
+Modélisation formelle en Z.
+Patterns de conception.
+Bonnes pratiques de développement
+
+
+Programme:
+
+
+
+Ameliorations a apporter:
+Plus de cas concrets d'utilisation de la modélisation Z.
