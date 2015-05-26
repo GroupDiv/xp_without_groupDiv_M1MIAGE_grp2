@@ -10,7 +10,7 @@ Bonnes pratiques de développement
 
 
 Programme:
-un module divisé en deux notions réparties entre deux profs alterné une semaine sur deux sauf en en période d'alternance avec un projet commun mais pas trop
+un module divisé en deux notions différentes réparties entre deux profs alterné une semaine sur deux sauf en en période d'alternance avec un projet commun mais pas trop
 
 Ameliorations a apporter:
 Plus de cas concrets d'utilisation de la modélisation Z.
