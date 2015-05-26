@@ -3,7 +3,7 @@ notion en developpement web
 
 
 Competences acquises:
-Reset, servlet, google app engine,datastore, angular
+Rest, servlet, google app engine,datastore, angular
 
 
 Programme:
