@@ -15,4 +15,4 @@ Programme:
 
 Ameliorations a apporter:
 Plus de cas concrets d'utilisation de la modélisation Z.
-Isoler leux deux partie du cours en deux UE distinctes.
+Isoler leux deux parties du cours en deux UE distinctes.
