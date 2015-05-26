@@ -16,3 +16,4 @@ Programme:
 Ameliorations a apporter:
 
 Autoriser une fiche de formules pour les devoirs
+séparer les TD et les CM
