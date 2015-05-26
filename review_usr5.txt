@@ -2,3 +2,4 @@
 164103|Developpement Web et applications riches|usr5: reset ?
 164455|Technique de communication|usr5: c'est pour quand ?
 164736|Gestion Financiere|usr5: trop d'agressivité
+164907|Technique de communication|usr5: en faire une vraie matiere
